@@ -1,0 +1,2131 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-15T21:46:10.545408+00:00",
+  "artists": [
+    {
+      "name": "A.K.A. Pella",
+      "channelId": "UCZFAzTfD7_WcgDVHwfmGrdw",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "AFIkoMAN",
+      "channelId": "UCihwy53fZm-Xc8gZvHBxHSw",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Akiva Nachman",
+      "channelId": "UCSVYEizHEvWD06KQULD9ELA",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Alex Clare",
+      "channelId": "UCZa7crFd_TP-vDn4fUdzqTw",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Avraham Rosenblum",
+      "channelId": "UCTp9T7uKu3v4JDCES-Og5iQ",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Chaim Fogelman",
+      "channelId": "UC4-CSThYr3JDncwWM7qX4ew",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Chaim Ghoori",
+      "channelId": "UCpVWl-kIG3gxILLJKiztyeg",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Chilly Wagschal",
+      "channelId": "UC6GkDMwcnMARhSxpKCSbKhQ",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "DJ Farbreng",
+      "channelId": "UCfWRyQLkrtC0G3sG001vq8A",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Dov Levine",
+      "channelId": "UCZc121O8NJKWS3cVCMLuPEQ",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Gershi Uri",
+      "channelId": "UC_qExX7xRD8cltx_UxzABgg",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "HBS",
+      "channelId": "UCDG5-JDDZRlzXLRJd3rRAWw",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Hershy Bleich",
+      "channelId": "UCrzQywDiC4IhlNePUI-x_rw",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "Hillel Kapnick",
+      "channelId": "UCw4f7BjCN1ZOjLAbkJwRiQg",
+      "genres": [
+        "american_pop"
+      ]
+    },
+    {
+      "name": "MUNCH",
+      "channelId": "UCionG5jvTEAeh8l_H3ldlgw",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "Mamish",
+      "channelId": "UCs2lQOTJFcd1SCL9w7iyW8Q",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "Matt Dubb",
+      "channelId": "UCbyD0Jnm_-Wt2b0t1l21p6A",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Mendy J",
+      "channelId": "UCYCHfGjcg7sUfI9vTGnUmLA",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Mendy Portnoy",
+      "channelId": "UCffY4_Nsaqs8KTEt6LtQjNg",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "Moshe Lichtenstein",
+      "channelId": "UC1a0XPL4SqofrfTsoZ7CRhQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Moshe Yess",
+      "channelId": "UCLf-g5NzfBkiDxPOrMcWtRA",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Nachas",
+      "channelId": "UCFaqeWT7ZBJsdeOvCWvYhfA",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Shevach Boys Choir",
+      "channelId": "UCqagfxK3U01lGOiRXaYLYQA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Shmili Landau",
+      "channelId": "UCFWvCu8Pee_khdbmAANa1Bw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Simcha Jacoby",
+      "channelId": "UCiUvnSAR1Z6QEKd6hwtXdzw",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "TYH Boys",
+      "channelId": "UCtQiRYkrvrMlTmqEQy78vAA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "Tali Yess",
+      "channelId": "UCs1CUepeSP_9zIgp2w3vMYA",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Thank You Hashem",
+      "channelId": "UCHBST5NBv-gZeXkJjjP74Kw",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "Yechiel Giniger",
+      "channelId": "UC6J2dA6gWquS57eE6UlE7OQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Yechiel Schron",
+      "channelId": "UCqNqG3iDaJEuNshIG73f9cA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Yidi Bialostozky",
+      "channelId": "UCsOh9VaqwlAyjoS7cU1nxdw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Yossi Lauber",
+      "channelId": "UCvsFJtayl0mj3sv3X7qecuQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "Yossi Rodal",
+      "channelId": "UCbAbuYNe7DKbCk8W27XEOew",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "Yossi Zucker",
+      "channelId": "UCqkX8m2FUgEOH3H9Yxt1kww",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אבי אילסון",
+      "channelId": "UClhlH-uzEKhMTlJQWbD2nrA",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אבי בן ישראל",
+      "channelId": "UCDE5VulSKvYf4oyZl_odzXg",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "אבי מילר",
+      "channelId": "UChtZuciZLgHyRQ7hinLDqhg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אבי מן",
+      "channelId": "UCa_eksRjzpr-SUzynZKuysA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "אבי פודולינסקי",
+      "channelId": "UCiurymv3ZRWTqvASSou40wg",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "אבי פיאמנטה",
+      "channelId": "UCh4NY2jeS945E_Rsco1F1_A",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "אביש בראדט",
+      "channelId": "UCqwl-80S19l8BWlrtfJZ3BA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אביש ברודט",
+      "channelId": "UC0-foS39p84VAaTwngP4W4w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אבישי אשל",
+      "channelId": "UCLljg9gBVW8HYjF6sbAC2HA",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "אבישי רוזן",
+      "channelId": "UCsx_wLo_m34bHX3Y3Kf26XA",
+      "genres": [
+        "israeli",
+        "pop"
+      ]
+    },
+    {
+      "name": "אברהם חיים גרין",
+      "channelId": "UC5SCgSfE6JbkzNGRG0tjvgg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אברהם שלום",
+      "channelId": "UC_glkfFnP_jNQpFn3p2DTRw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אברומי ברקו",
+      "channelId": "UCD0XDjxjjAE-cl34gY5_Cfw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אברומי וינברג",
+      "channelId": "UCNEXZL1sSgHu1OXOE4_-bbQ",
+      "genres": [
+        "israeli",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אברומי פלאם",
+      "channelId": "UChFscCECmWXq1DqDMGUWjrw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אברימי לונגר",
+      "channelId": "UCaEdDMyZxHBpmBdCBKbswMA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אברימי רוט",
+      "channelId": "UCoyBqWAeokrfs6a_mjwPgog",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אהרון רזאל",
+      "channelId": "UCWXcFgarUdHuJtYOX_rVKAw",
+      "genres": [
+        "israeli",
+        "alternative"
+      ]
+    },
+    {
+      "name": "אהרן רזאל",
+      "channelId": "UCzqLcYn4fpf48sZI8G64t9g",
+      "genres": [
+        "israeli",
+        "alternative"
+      ]
+    },
+    {
+      "name": "אודי דוידי",
+      "channelId": "UC5nGBtwsSVracGWgrLanPLg",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "אודי דמארי",
+      "channelId": "UCiOSnSRl9lEN-gVIX7ZIpTg",
+      "genres": [
+        "pop",
+        "israeli"
+      ]
+    },
+    {
+      "name": "אוהד מושקוביץ",
+      "channelId": "UC4-zDyQfkwh_27BN4tBf5Tw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אורי דוידי",
+      "channelId": "UCZ4XuQbhnCWNdoNlPCqHebg",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אורי כהן",
+      "channelId": "UC6qJRTSro-CEXWKlVKfzeyw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "אייבי רוטנברג",
+      "channelId": "UCYf5FBxTr_WOGZ0bg0jAgpw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אייזיק האניג",
+      "channelId": "UCKiA1_fMWJjIHuj_5zkxQBA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אייל טויטו",
+      "channelId": "UCYZuvwZP0aWP1i9i_EPdg3Q",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "איצי וולדנר",
+      "channelId": "UC5-ApPEQbXGc7qVOwXAfv-Q",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "איציק אורלב",
+      "channelId": "UC0x-EPyzVsBm5hZiQDzM6QQ",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "איציק דדיה",
+      "channelId": "UCuUcHnYY30pDCJ-wNjw20gA",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "איציק וינגרטן",
+      "channelId": "UCT3Ujz3093G2VRxAZBHR-lA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "איתי דוד",
+      "channelId": "ECEI135WOJxuWV_IbPmDiFug",
+      "genres": [
+        "pop",
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "איתן כץ",
+      "channelId": "UCNBG7G28lqHgX8UGYraRrGw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אלחנן אלחדד",
+      "channelId": "UCue8u4IxRpP9t_Gen4xvGCw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אלחנן ענבל",
+      "channelId": "UCw4uDtNqzKpA_FyBnbgAQhw",
+      "genres": [
+        "alternative",
+        "israeli"
+      ]
+    },
+    {
+      "name": "אלי הרצליך",
+      "channelId": "UCtxKYZpa8IGkBUQ83osB88w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אלי לוין",
+      "channelId": "UC16TAjRl-SdQ_K7H_o9c5tQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אלי מרקוס",
+      "channelId": "UCY5qvQNoawFipLxi_KZwFUg",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "אלי פרידמן",
+      "channelId": "UCthjk1chVrhKkCA3Vp_mMCg",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "אלי קליין",
+      "channelId": "UCony_70Oyz1c0sf098TuPrQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אלי שוובל",
+      "channelId": "UCE2CVHIJgSAEjN5bCzsE6kA",
+      "genres": [
+        "pop",
+        "alternative"
+      ]
+    },
+    {
+      "name": "אליה והב",
+      "channelId": "UCuBEDRZteQD7QarkR3eroLg",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "אליהו חייט",
+      "channelId": "UCDrPBGfQiHS7KTe4dsG7HIQ",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אליקם בוטה",
+      "channelId": "UCvJCPQJWlRlJXsEfT7Hfb5Q",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "אלירן אלבז",
+      "channelId": "UCH015ay6fdu6oHXowX7P8DQ",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "אלנתן שלום",
+      "channelId": "UCp4dTh0n7oWNbGrTC3SzJXw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "אלעד כהן",
+      "channelId": "UC8F9rBLxMgVq9kxaVKPEtIg",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "אלעד שער",
+      "channelId": "UCCl8IPYsSRnui5XbeRfSJqw",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "אלעזר אסתרזון",
+      "channelId": "UCcudJNQwHZkPZaE5INoCY2g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אמיר אליהו",
+      "channelId": "UCQPunZZX9G934YtB1la1etg",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "אסף שפר",
+      "channelId": "UC_9V92yN9cMUy6apVPeyNhA",
+      "genres": [
+        "mizrahi",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אפרים מנדלסון",
+      "channelId": "UCSnCIdJIFPq2-vIw08mqI6A",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אפרים מרקוביץ'",
+      "channelId": "UCgbwvoxfdEvHwq4xxsNGoYg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ארי גולדוואג",
+      "channelId": "UC31c9ukaP0w1Gugn6mTb5pA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "ארי סאמט",
+      "channelId": "UCVQ-263yvbcxhH4baA-Uliw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אריה ברונר",
+      "channelId": "UCWeE4WYaMR6o1HEQ-TpIe0A",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אריה קונסטלר",
+      "channelId": "UCvCfWc_qb7OMoGdgCWKbbgQ",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "אריק דביר",
+      "channelId": "UC1r710RFPIwrMqI2xH-z7wQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "בן סנוף",
+      "channelId": "UC481fJM_qLHPe5YWQlFpNmA",
+      "genres": [
+        "israeli",
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "בן-ציון שנקר",
+      "channelId": "UCXiIJIaIx3lLxPKf1lJo8CA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "בני אלבז",
+      "channelId": "UCK5zGZ-KV1p7feTWUNaOkCA",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "בנצי קלצקין",
+      "channelId": "UCD_fYx6NZZE7Fk5zD5iUSVA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "בנצי שטיין",
+      "channelId": "UCAM_yc1C3RuxfrMpxAUxHOQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "בערי וובר",
+      "channelId": "UC8n1Io5T76kSYeuYVQHzsQA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "ברוך ויזל",
+      "channelId": "UCcxbP_-vUUUx7tvVkQjClJQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ברוך לוין",
+      "channelId": "UC_IxmTZosg-FyYkvf1mzYnw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ברוך שלום בלסופסקי",
+      "channelId": "UC-xr5bwdJDADQkS_TfDl4mA",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "בריו חקשור",
+      "channelId": "UCbNw7jFjyhP7OY0IT2OUnIQ",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ג'ואי ניוקומב (Joey Newcomb)",
+      "channelId": "UC1QsA-Q6SUKX9gWi1heQDEA",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "גבריאל חסון",
+      "channelId": "UCwewLKeklVYhet7iS5aqmhg",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "גד אלבז",
+      "channelId": "UCxEklyOKH3Jn1_1_AaRQsrQ",
+      "genres": [
+        "pop",
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "גיל ישראלוב",
+      "channelId": "UCZuSuSnRFj4w99qgQDjJh5Q",
+      "genres": [
+        "hasidic",
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "גלעד פוטולסקי",
+      "channelId": "UCeki_KBPssr3gz3Zl53DDCQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דב הנדלר",
+      "channelId": "UCKLa4nAxhAefhCYecrZT3WQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דב שורין",
+      "channelId": "UC8t3mgq12GZzBCXW81SJhbg",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דדי גראוכר",
+      "channelId": "UCx4Vp5_O7g0Qr__QyjsDgRQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דובי מייזעלס",
+      "channelId": "UCQdB_44poAPBj2TckPrbdgw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דוד חזיזה",
+      "channelId": "UCE7j5aZlXNU-Da-YaR4W7dw",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "דוד חפצדי",
+      "channelId": "UCemWU-yvqBOk5rjebnsJDYw",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "דוד פרלמן",
+      "channelId": "UCiMnyfUnUaX4Uk_UdGCoC0A",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דודי לינקר",
+      "channelId": "UCG6vpYRUikXKfA8raPSS3nw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דודי פלדמן",
+      "channelId": "UCQA6kbFsl6DVN6CLsZ40PBA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דודי פרישמן",
+      "channelId": "UC0XVNZsq-wV5ifjPh95NKpQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דודי קאליש",
+      "channelId": "UCRBXWlF1sZ7QRfXspqqA-Mg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "דניאל אהביאל",
+      "channelId": "UCGaINBtcZaadrtcfVzcDJbA",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "דניאל זמיר",
+      "channelId": "UCjRWwaF--TdsVmuY4EMo4zw",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "היום השמיני",
+      "channelId": "UCw1oCoEMF_o65tpDHItwwUQ",
+      "genres": [
+        "pop",
+        "alternative"
+      ]
+    },
+    {
+      "name": "המכביטס",
+      "channelId": "UCEg5tmfi6WmJZRnezYLVHSg",
+      "genres": [
+        "pop",
+        "alternative"
+      ]
+    },
+    {
+      "name": "הראל טל",
+      "channelId": "UC-lHN5ZiysUhuU4xm6tRzpw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "הרשי אייזנבך",
+      "channelId": "UCfSY83HaEOa0n_K8-6NpbcQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "הרשי וינברגר",
+      "channelId": "UCLQylHgxsIaMasCFKhL7A1g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "הרשי רוטנברג",
+      "channelId": "UCOgaMO0hlvuCA8nnACAHriQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "זאנוויל ויינברגר",
+      "channelId": "UCdFDa1uKSVtD4w27Jo0E1gA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "זיו יחזקאל",
+      "channelId": "UCyoi4F5uufOxh9IByNDuo5g",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "חיים דוד ברסון",
+      "channelId": "UCDFgB4GepvQXWyUg0TMJEaw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "חיים דוד סרצ'יק",
+      "channelId": "UCn68TyMJCASbKN8j1uBszwA",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "חיים ישראל",
+      "channelId": "UCpFrrj714aCUQ-Pfr9E5vtA",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "חיים פורטל",
+      "channelId": "UCP3G80JEWp5vAEKDm1zRywA",
+      "genres": [
+        "israeli",
+        "alternative"
+      ]
+    },
+    {
+      "name": "חיים צדיק",
+      "channelId": "UCOAEiya14ORLB09TUMYEJzA",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "חיים שלמה מאיעס",
+      "channelId": "UCqZEueqIcgzbBlaOMR2xTdw",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "חיליק פרנק",
+      "channelId": "UCEMOZ4wvQARIbprCByf-ykw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "חנוך בן משה",
+      "channelId": "UCvLb6ju7Dps00WXlD36OZFw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "חנן בן ארי",
+      "channelId": "UCz4N_ARAr1VxGzXq_Xj850g",
+      "genres": [
+        "israeli",
+        "pop"
+      ]
+    },
+    {
+      "name": "טל ועקנין",
+      "channelId": "UCGgyx4Qm9_UB8URmvU6Ynfg",
+      "genres": [
+        "pop",
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "יאיר אלייצור",
+      "channelId": "UC23eX6d6juE2YT0aa7nL97A",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "יאיר כלב",
+      "channelId": "UCV8IIInfAH2Vkfm4gdDYlEQ",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "יהודה גלאנץ",
+      "channelId": "UCOaMeJT5ftPBFLF1S9PMeJw",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "יהודה גרין",
+      "channelId": "UC6s2xUPyMS4ZbPBALr9MmcQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יהודה פליישמן",
+      "channelId": "UCl9LqAGv2Jwwih-1Ry5CTsg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יואלי גרינפלד",
+      "channelId": "UCSL3dOfqU4_o7mtH6GdfxkA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יואלי דיקמן",
+      "channelId": "UCzfJYCFmO-B4VYzCGRU6e9Q",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "יואלי קליין",
+      "channelId": "UCXjUzmNpXKsKZtfDgyHc-_w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יואלי שטיינברג",
+      "channelId": "UCb9ed8F9w8AWxS96mfUKb5g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יובל טייב",
+      "channelId": "UCJ9MOj5CuA0gaehrxG5usMw",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "יוחנן אורי",
+      "channelId": "UC8YSUssuDsfn0ABjB9Iv_yA",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יומי לואי",
+      "channelId": "UCJpfmMsU99sd21Z1ff7WJFw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוני אליאב",
+      "channelId": "UC-GfYOy3knA_Lz-k_kidrOA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "יוני זי",
+      "channelId": "UCkZ8Hbvfbzax0r-t7tQ9YLg",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוני שלמה",
+      "channelId": "UC3Nan6zDpzLpKRSQ3KkcjzQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יונתן רזאל",
+      "channelId": "UCIs-s_nxV5WKupy0gEGZiXw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "יונתן שוורץ",
+      "channelId": "UC8QdnhyXXB8Y6FHQTvtDuRQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יונתן שינפלד",
+      "channelId": "UCxBkd0HGpsMSxBDMTPHINdQ",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוסי גרין",
+      "channelId": "UCtzGTGyCz_k0ZXMCZ1u_tkQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוסי פיאמנטה",
+      "channelId": "UC5HUxQuTpa3JdJlftkU-rWg",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוסי קוגלר",
+      "channelId": "UCKNpYaDVAtsOWq4gP8DKHJA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוסף חיים שוואקי",
+      "channelId": "UCdnR2ba9ft8_UoTiNFzTuPw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוסף משה כהנא",
+      "channelId": "UCTohDUl7uvE9tRJFMTHK9Lg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יוסף נטיב",
+      "channelId": "UC9mCcrTMWEMm5TRHvlXiWtg",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "יוסף קרדונר",
+      "channelId": "UC9u5RkvuFKEHljFrCD4hEPA",
+      "genres": [
+        "alternative",
+        "israeli"
+      ]
+    },
+    {
+      "name": "יוסף רוזנבלט",
+      "channelId": "UCqK5e4RV-N9S7x5qoJC9gkQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יחיאל ליכטיגר",
+      "channelId": "UCH4C0PxbBCg8UvVesbalhBg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יחיאל נהרי",
+      "channelId": "UCNGMSfhi-Mh_B_Fc5hQbX-w",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "יידל ורדיגר",
+      "channelId": "UCaVyEkSHaVO95koiBH5QYrQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ייטב דאלי",
+      "channelId": "UCnM5Ij6prw7U3gdTJ7VsCXw",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "יענקי היל",
+      "channelId": "UCmpM9OUxMsg1GfrTN4igk4w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יצחק מאיר",
+      "channelId": "UCU0jtIC_hKPlxX2nnC5ejwA",
+      "genres": [
+        "israeli",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יצחק מאיר הלפגוט",
+      "channelId": "UC_gi-PRiu0a71T5UsnPbL1Q",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "יצי ספינר",
+      "channelId": "UC-luQ_klMlWVeUsqmls19GQ",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ישי לפידות",
+      "channelId": "UCKUqlCQkBMhBGIvZSj_DVWg",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ישי ריבו",
+      "channelId": "UCVYVQD6Qpuvo-Zg_jmjTrkw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "ישראל אדלסון",
+      "channelId": "UC_ymNEyH2O_m9FZtnDrec8g",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "ישראל אדלר",
+      "channelId": "UCpc86zuxJNzfsHI2_h5yhCA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ישראל ג'רופי",
+      "channelId": "UCgAualfsJ8UtDCaJiz970sA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "ישראל ורדיגר",
+      "channelId": "UC0ltk59L9qeEN2YNBeshuLA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "להקת ישיבה בויס",
+      "channelId": "UCGZBtS53Yqr3pB11RGkPCNA",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "להקת מושב",
+      "channelId": "UCtyTfjzwYYxjvQgVX7ZPgkA",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "להקת תזמורת פריילך",
+      "channelId": "UCam5AHZJ6vMvYkPsYFsBfnQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "לוי פולקוביץ",
+      "channelId": "UCNPF_y4u71Oqy0YwA8ubdBQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "לייבי וידר",
+      "channelId": "UC4LXfHVem0dsBLO_uMwpbXw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "לייזר לויד",
+      "channelId": "UC5KW-xg23asJAA5PTezyzzQ",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "מאיר אדלר",
+      "channelId": "UCnjvomNC0hBYdspNrimD3eA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מאיר בן דרור",
+      "channelId": "UCmj-SVO498cF9wTA0SKd5aA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מאיר גפני",
+      "channelId": "UCCjCGTtA12Z9zvqe-3o7OIg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מאיר גרין",
+      "channelId": "UC_yQzUx1YXBlBH795X748Gg",
+      "genres": [
+        "pop",
+        "israeli"
+      ]
+    },
+    {
+      "name": "מאיר קיי",
+      "channelId": "UCmwayYHLpRkXJYBD9lGcbOQ",
+      "genres": [
+        "alternative",
+        "pop"
+      ]
+    },
+    {
+      "name": "מוטי אילוביץ",
+      "channelId": "UCVLQWjtgDSTZN37_YbISUAQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מוטי גולדמן",
+      "channelId": "UCzFUtJLO4zsftNdf3uarKVg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מוטי רוטמן",
+      "channelId": "UCrqHwd5W1YmJgWqAXPgTf0w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מוישי וולס",
+      "channelId": "UCC3_Z1xG9ruAvyatSpsSMMg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מוישי שוורץ",
+      "channelId": "UCoATUXsgh8GmEc-zF_Wb3JQ",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מיילך ברונשטיין",
+      "channelId": "UCj4nW4uQaMBECEBlaY21DYg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מיילך קאהן",
+      "channelId": "UCtEK38jzXAUObe-5H8isljg",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מיכאל אזולאי",
+      "channelId": "UCIAlAMfuK1KBV7eVofe2tjA",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "מיכאל שטרייכר",
+      "channelId": "Cl80Gv3npsInBbatoVaZgTQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מיכאל שניצלר",
+      "channelId": "UCHJtEeISU1FYdFGYCpQzbeg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מיכה גמרמן",
+      "channelId": "UCXcPRe9sZYhE9dqxMnl-0fw",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנדי ג'רופי",
+      "channelId": "UCT-mEPzcpu9NA3_lcwbHq0A",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנדי גולדברג",
+      "channelId": "UCZgmglzC29i40G3cBx15rPA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנדי הרשקוביץ",
+      "channelId": "UC0u_NC9_qtrRsxYDY7J-r2w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנדי וולד",
+      "channelId": "UCqYGK7-bY_nvTHfJsjFggOQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנדי וייס",
+      "channelId": "UC271gYsK8n1WVeBTyiDjYEA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנדי רוט",
+      "channelId": "UCMqmsFTYbQfwGD62NmFk_jg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מנחם לוי",
+      "channelId": "UCmH_Atbuf4ddHRimwF3zL6w",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "מנשה ליכטנשטיין",
+      "channelId": "UCzikvLesYafncBqcYWzdFEg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מענדל ראטה",
+      "channelId": "UCumudJlU9YoVkQxxaLIBehQ",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מקהלת יחד",
+      "channelId": "UC3-HZFjyiGVdlL9LUNJSWcw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מקהלת מלכות",
+      "channelId": "UCTKCxKIKaTwEZ3p-zezdP9g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מקהלת נשמה",
+      "channelId": "UC88l4ZpEMhc9Q-xytqV0F-g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מקהלת פרחי לונדון",
+      "channelId": "UCpZAxl_lfqzZ56ortfjCQbg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מקהלת פרחי מיאמי",
+      "channelId": "UCqvfq2DsYvlpbE3NluT_Ieg",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "מקהלת צבאות השם",
+      "channelId": "UCAXAP-u8qCWKXJMHcpstBJw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מקהלת שירה",
+      "channelId": "UCT6JlUQFuSe_4zQ_9cQpJWA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מרדכי בן דוד",
+      "channelId": "UCJnj4pkUeIRCIrpRXoIv15g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "מרדכי גרנביץ'",
+      "channelId": "UCBOoV_Ej9o8R4qb78NNS60g",
+      "genres": [
+        "alternative",
+        "israeli"
+      ]
+    },
+    {
+      "name": "מרדכי שפירא",
+      "channelId": "UCm5x_womXL5E7TAYca5JkZQ",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "משה גולדמן",
+      "channelId": "UCH5TWA46szWeEpZchukaYEg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "משה דוד וייסמנדל",
+      "channelId": "UCE-RbJjvCNlszw1qzfraqAg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "משה דוויק",
+      "channelId": "UCvKf28K13nV9lPtReC9k-tg",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "משה הכט",
+      "channelId": "UCa41WxvKAQ4_brFrT1Kb8aQ",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "משה חבושה",
+      "channelId": "UClXm891clnumcw0vbkHdSpA",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "משה לוק",
+      "channelId": "UCckAvhL9rStbAvTo8T3mM0A",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "משה מנדלוביץ",
+      "channelId": "UC-rPxFHSMKoQ8MP5rOqQJ8Q",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "משה פלד",
+      "channelId": "UC4xhDvLjoxYL1s8CRgwAy6Q",
+      "genres": [
+        "israeli",
+        "pop"
+      ]
+    },
+    {
+      "name": "משה קליין",
+      "channelId": "UCpHeJBXBqnyvxF_eK-BiwnQ",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נאור כרמי",
+      "channelId": "UCOcJT7w0SKEeFlXq8S0JBSg",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נדב בכר",
+      "channelId": "UCAPOMohu2PzaaMdK2DD6vXQ",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "נהוראי אריאלי",
+      "channelId": "UCdryVfjbE-stNJ1FBCkJWVQ",
+      "genres": [
+        "pop",
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "נותי ליברמן",
+      "channelId": "UCY0Zc19KijcluOiBoHWUz1Q",
+      "genres": [
+        "israeli",
+        "alternative"
+      ]
+    },
+    {
+      "name": "נחמן בוימל",
+      "channelId": "UCeReGuCFmtdQBbV0yha11JA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נמואל הרוש",
+      "channelId": "UCCxmSp4ySkfbNjVkA6pRhgw",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נפתלי בלומנטל",
+      "channelId": "UCiYY3LCuBdTI0ufmdzmAXiQ",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נפתלי הרשטיק",
+      "channelId": "UCd6QidYVi8ua-_k5GD7nS7Q",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נפתלי קמפה",
+      "channelId": "UCJMSsbz2JigH3Gd-ODmjEMw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "נתנאל ישראל",
+      "channelId": "UCwWJXU9qJ62yQ9pLlATo2_A",
+      "genres": [
+        "pop"
+      ]
+    },
+    {
+      "name": "סיני תור",
+      "channelId": "UCHWFdyhD6XpZHC5nSTeTqFg",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "עדי רן",
+      "channelId": "UCENpFg4g22Ore8X3TQNkU7Q",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "עוזיה צדוק",
+      "channelId": "UC8X43eu20eZXzHoc6IC_fzw",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "עמירן דביר",
+      "channelId": "UCL5sL2wnxCI4l-O_zaxUFhw",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "עמרם אדר",
+      "channelId": "UCqE4OZAwQj9vzNsva5mo3Wg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "פורת נוב",
+      "channelId": "UCRRUJV-iGXfyaaK2WOuFunA",
+      "genres": [
+        "alternative",
+        "israeli"
+      ]
+    },
+    {
+      "name": "פינחס ביכלר",
+      "channelId": "UCt2AKtO242jh31CiLfGgI6Q",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "פיני איינהורן",
+      "channelId": "UCx9iVefPf-yjAkgecQXjV-g",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "פיני שכטר",
+      "channelId": "UCtxP1E-IPYIV3DtJJtj-vTw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "צליל וזמר",
+      "channelId": "UCAPjT-v_5MLUUFra6tb-Pkg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "צמד רעים",
+      "channelId": "UCHaVz94rZbnTMN8if-mn34Q",
+      "genres": [
+        "israeli",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "קובי ברומר",
+      "channelId": "UC6Clmvqni_n6xpxNy_jVUKg",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "קובי גרינבוים",
+      "channelId": "UCRvg41IvfBdXTapY_ty65og",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "קינדרלעך",
+      "channelId": "UCvxMTtMQVlyNJp75vhs2gVQ",
+      "genres": [
+        "pop"
+      ]
+    },
+    {
+      "name": "רולי דיקמן",
+      "channelId": "UC2aimwcezjVPh8D4bqLMWXw",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "רועי ידיד",
+      "channelId": "UCtaEh2izW32PGedYtsrJ-kA",
+      "genres": [
+        "israeli",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "רפאל אוזן",
+      "channelId": "UCrS3YNX_QKAx0FZMRFzMq5g",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "רפאל מלול",
+      "channelId": "UCFMPw6k6gMcvTwhS8UAEd4g",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "שולי רנד",
+      "channelId": "UCTG4V5TZqdj1EkI2aSqFD_Q",
+      "genres": [
+        "israeli",
+        "alternative"
+      ]
+    },
+    {
+      "name": "שוקי סלומון",
+      "channelId": "UCxZP06_QHa7FJBx_0MmOLzw",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שימי אנגל",
+      "channelId": "UC6B8BMKDj5xjS99mrkmggVQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שירה Choir",
+      "channelId": "UClM-MxPL_KypMIed3IQrO-w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלום ברנהולץ",
+      "channelId": "UCqv7BNuVqlbzQdMAVq9krMQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלומי דאקס",
+      "channelId": "UCv58Dafo6Yue5eve-Xcky0Q",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלומי דסקל",
+      "channelId": "UCaSs5F26wYkoirLRfsA1Upg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלומי קאופמן",
+      "channelId": "UCI2xUUNZN5i8n8UpwRZgPeg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלמה ברונר",
+      "channelId": "UCVGlgleie25Ce2NHpp4pC4w",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלמה טויסיג",
+      "channelId": "UCDh7M3rgv8uz6MND2spmePg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלמה כהן",
+      "channelId": "UC91m3WqAEnGtKKNQdIrJzLw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלמה כץ",
+      "channelId": "UC_AnZatVR_lH-MMnJo0-iGA",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שלמה קרליבך",
+      "channelId": "UCr0Ka7wlj9U6pqJf-vLO2vg",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "שלמה רג'ה",
+      "channelId": "UC3NJtjjppxZcgL8xXtHLEDQ",
+      "genres": [
+        "alternative"
+      ]
+    },
+    {
+      "name": "שלמה שמחה",
+      "channelId": "UCYsDee6axf7o03ktN2GKakw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שמואל גריינמן",
+      "channelId": "UC1H2TOEthiv6KA2PgId6EYQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שמואל הררי",
+      "channelId": "UCDfACGXebZ6w1gtX1ASfEZg",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "שמואל יונה",
+      "channelId": "UCgtEXnkh9MfnZVo2H9Pw5rw",
+      "genres": [
+        "israeli"
+      ]
+    },
+    {
+      "name": "שמוליק סוכות",
+      "channelId": "UC_30I6RrK_UZdmuHnI6d87g",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שמוליק קליין",
+      "channelId": "UCDL3ZI-bidleJqCdmLFgsCw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שמחה אברמצ'יק",
+      "channelId": "UCgtdHqiyuZcFR5yB4bziwdQ",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "שמחה ליינר",
+      "channelId": "UCu6IT3jTOtAcNfjIQSIyCQQ",
+      "genres": [
+        "pop",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שמחה פרידמן",
+      "channelId": "UCeCsGFl3pIofvlOg9X9RWiQ",
+      "genres": [
+        "hasidic",
+        "pop"
+      ]
+    },
+    {
+      "name": "שמילי אונגר",
+      "channelId": "UCckg6lcQaW00lvNHwCjo7xA",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שמעון טובול",
+      "channelId": "UCG5blpzBZvgAcQyhj-N5-XA",
+      "genres": [
+        "mizrahi",
+        "pop"
+      ]
+    },
+    {
+      "name": "שמעון סיבוני",
+      "channelId": "UCN_A9Q1yloXbjbp0-mweDCw",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "שרגי גשטטנר",
+      "channelId": "UCJPbzKH6CqVj-_ofxBHMYsg",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שרולי גרין",
+      "channelId": "UCEjcKdpkZkvgT5ISMGV5DCg",
+      "genres": [
+        "alternative",
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שרולי ליפשיץ",
+      "channelId": "UCUeaVzUToUL4xcz8ny3peew",
+      "genres": [
+        "hasidic",
+        "alternative"
+      ]
+    },
+    {
+      "name": "שרוליק מנדלסון",
+      "channelId": "UCfScwFxzDsy7Y777_P648sw",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "שרוליק קלצקין",
+      "channelId": "UCv4zIkEX_dhm6E7WSULMowQ",
+      "genres": [
+        "hasidic"
+      ]
+    },
+    {
+      "name": "תומר חתוכה",
+      "channelId": "UCZ5hRU-wbaQZ0vFSGJrdHLQ",
+      "genres": [
+        "mizrahi"
+      ]
+    },
+    {
+      "name": "תזמורת המנגנים",
+      "channelId": "UCYj7tMFZRtn7ch4OV8fBf0Q",
+      "genres": [
+        "hasidic"
+      ]
+    }
+  ]
+}

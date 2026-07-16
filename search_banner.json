@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "imageRevision": 1,
+  "targetUrl": null,
+  "accessibilityText": "",
+  "aspectRatio": 3.0,
+  "contentMode": "fit",
+  "horizontalPaddingDp": 16,
+  "topPaddingDp": 8,
+  "bottomPaddingDp": 12,
+  "cornerRadiusDp": 12,
+  "maxHeightDp": 220,
+  "imageUrl": null
+}

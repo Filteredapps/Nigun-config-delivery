@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-15T21:46:10.546415+00:00",
+  "baseUrl": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main",
+  "endpoints": {
+    "homeFeed": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main/home_feed.json",
+    "allowedArtistsText": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main/allowed_artists.txt",
+    "allowedArtistsJson": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main/allowed_artists.json",
+    "blockedSongs": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main/blocked_songs.json",
+    "searchBanner": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main/search_banner.json",
+    "manifest": "https://raw.githubusercontent.com/REPLACE_WITH_GITHUB_USERNAME/Nigun-config-delivery/main/manifest.json"
+  },
+  "refreshPolicy": {
+    "normalIntervalHours": 12,
+    "minimumRetryMinutes": 30,
+    "useLastKnownGoodOnError": true
+  },
+  "features": {
+    "blockedSongs": true,
+    "searchBanner": true
+  }
+}
