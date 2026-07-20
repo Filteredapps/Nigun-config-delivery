@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T09:33:55.651333+00:00",
+  "generatedAt": "2026-07-20T12:08:39.758302+00:00",
   "baseUrl": "https://raw.githubusercontent.com/Filteredapps/Nigun-config-delivery/main",
   "endpoints": {
     "homeFeed": "https://raw.githubusercontent.com/Filteredapps/Nigun-config-delivery/main/home_feed.json",
