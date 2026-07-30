@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T11:19:11.484017+00:00",
+  "generatedAt": "2026-07-30T10:44:08.424964+00:00",
   "files": [
     {
       "path": "allowed_artists.json",
       "size": 42826,
-      "sha256": "9e672a284dfe0bcd6ce5566dc11c0c97d91d2b13f38708e4a45aaea5adda3a08"
+      "sha256": "e29fa695d22f405dffb8375fe69d73c441a5cd2149e4577f3dac8a1cace9f3af"
     },
     {
       "path": "allowed_artists.txt",
@@ -15,17 +15,17 @@
     {
       "path": "blocked_songs.json",
       "size": 118,
-      "sha256": "d6bfbddc63c12949c170e37153bed25961512c491742e82f043ae9e56372f8e6"
+      "sha256": "d18760d4065ebad5fe609b2f48199a60d1ed15a36f65c234f1c7e44e9c36c424"
     },
     {
       "path": "home_feed.json",
-      "size": 465744,
-      "sha256": "fca63b57f0473ba5de8be3d83af0bcaaf9efc1d09d52a7b82cd7a07486561e73"
+      "size": 474475,
+      "sha256": "737c657429c9907b922b8206b3c17feb1a4dfff760899d6ffce34c5f279f4ecf"
     },
     {
       "path": "remote_config.json",
       "size": 1079,
-      "sha256": "28809a216643e01adc46c5166468951233a227a2114c9ab8069c3f83cab10c30"
+      "sha256": "28e3acad285b4e5b33fd2b65553478142b183f81959a504122d5a2fd7935b670"
     },
     {
       "path": "search_banner.json",
